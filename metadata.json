@@ -1,0 +1,5 @@
+{
+  "name": "SecurePass Analyzer",
+  "description": "A client-side, zero-knowledge password strength analyzer calculating Shannon entropy, estimated crack time, and providing security recommendations.",
+  "requestFramePermissions": []
+}
